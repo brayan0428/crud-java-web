@@ -1,0 +1,7 @@
+com\controllers\MainController.class
+com\models\Libro.class
+com\llanos\brayan\activity3\resources\JakartaEE9Resource.class
+.netbeans_automatic_build
+com\config\ConexionDB.class
+com\dao\LibroDAO.class
+com\llanos\brayan\activity3\JakartaRestConfiguration.class
